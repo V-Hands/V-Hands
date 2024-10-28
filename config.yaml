@@ -1,0 +1,12 @@
+# Plese set your dataset here
+test_root: 'the dir of the testing data'
+train_root: 'the dir of the training data'
+
+# Below are default settings
+exp: 'all_hands'
+pad: 28
+batch: 8
+frame_len: 30
+epochs: 1000
+screen_w: 0.35000655987354695
+screen_h: 0.19737224635111683
